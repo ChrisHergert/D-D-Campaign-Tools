@@ -1,16 +1,16 @@
-RACE
-Shou (human)
-Chultan (human)
-Tethyrian (human)
-Turami (human)
-Rashemi (human)
-Half-elf
-Dragonborn
-Hill Dwarf
-Mountain Dwarf
-Forest Gnome
-Rock Gnome
-Grotag (goblin)
-Tuktuk (goblin)
-Lightfoot (halfling)
-Stout (halfling)
+RACE,Neverwinter,Triboar,Helm's Hold,NVW Army
+Shou (human),92,83,4,8
+Chultan (human),589,61,8,43
+Tethyrian (human),221,80,106,9
+Turami (human),710,12,6,67
+Rashemi (human),419,85,68,72
+Half-elf,831,114,5,89
+Dragonborn,509,105,82,16
+Hill Dwarf,1000,77,17,77
+Mountain Dwarf,304,103,67,88
+Forest Gnome,699,24,108,83
+Rock Gnome,674,74,74,24
+Grotag (goblin),364,23,45,12
+Tuktuk (goblin),384,78,89,41
+Lightfoot (halfling),540,78,38,121
+Stout (halfling),259,91,4,24
