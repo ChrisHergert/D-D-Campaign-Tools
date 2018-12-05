@@ -1,0 +1,16 @@
+RACE
+Shou (human)
+Chultan (human)
+Tethyrian (human)
+Turami (human)
+Rashemi (human)
+Half-elf
+Dragonborn
+Hill Dwarf
+Mountain Dwarf
+Forest Gnome
+Rock Gnome
+Grotag (goblin)
+Tuktuk (goblin)
+Lightfoot (halfling)
+Stout (halfling)
